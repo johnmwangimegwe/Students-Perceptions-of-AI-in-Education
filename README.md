@@ -56,22 +56,12 @@ Students show cautious optimism towards AI, recognizing its educational and econ
 - Enforce ethical guidelines for educational AI deployment.
 - Continuously collect student feedback to adapt strategies.
 
-## How to Access the Dashboard
-- The Excel dashboard has been saved as a PDF and image for web embedding.
-- The interactive version can be hosted via Google Drive or OneDrive public sharing.
-
 ## Repository Structure
 ```
 /Survey_AI_Project
 |- /dashboard/ (Excel file, PDF, images)
 |- /report/ (Full project report in DOCX and PDF)
 |- /website/ (HTML template for embedding dashboard)
-|- README.md (this file)
+|- README.md
 ```
 
-## License
-This project is intended for educational purposes and is shared under the Creative Commons Attribution-NonCommercial 4.0 International License.
-
----
-
-**Contact:** For inquiries, reach out via the Faculty of Cybernetics, Statistics, and Economic Informatics communication channels.
