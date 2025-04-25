@@ -1,5 +1,9 @@
 <h1 align="center">📊 Students' Perceptions of AI in Education 📊</h1>
 
+### 🌐 View the Full Report Website  
+Access the full interactive report and visualizations on the project website:  
+🔗 [ai-student-vision-web.lovable.app](https://ai-student-vision-web.lovable.app/)
+
 ### Live Report ➤ [Read the Medium Article](https://medium.com/@johnmwangimegwe/students-perceptions-and-insights-on-the-role-of-ai-in-education-02274ef5d33b)
 
 <a href="https://github.com/johnmwangimegwe/Students-Perceptions-of-AI-in-Education"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
